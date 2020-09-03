@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently open to work!
+- 🌱 I’m currently learning JavaScript & Java & Python.
+- 💬 Ask me about Python & HTML & CSS.
+- 📫 How to reach me: [sergeikryzhanovskii.github.io](https://sergeikryzhanovskii.github.io/) | text me: sergeikryzh95@gmail.com
+
+P.S.: Thanks for the profile photo: [@rutakray](https://www.instagram.com/rutakray/?hl=ru "@rutakray") (instagram)
+
+
+
 <!--
 **SergeiKryzhanovskii/SergeiKryzhanovskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
