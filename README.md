@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently open to work!
 - 🌱 I’m currently learning JavaScript & Java & Python.
 - 💬 Ask me about Python & HTML & CSS.
 - 📫 How to reach me: [sergeikryzhanovskii.github.io](https://sergeikryzhanovskii.github.io/) | text me: sergeikryzh95@gmail.com
