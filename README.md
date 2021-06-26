@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JavaScript & Java & Python.
-- 💬 Ask me about Python & HTML & CSS.
+- 🌱 I’m currently learning Data Engineering.
+- 💬 Ask me about Python, HTML, CSS.
 - 📫 How to reach me: [sergeikryzhanovskii.github.io](https://sergeikryzhanovskii.github.io/) | text me: sergeikryzh95@gmail.com
 
 P.S.: Thanks for the profile photo: [@rutakray](https://www.instagram.com/rutakray/?hl=ru "@rutakray") (instagram)
