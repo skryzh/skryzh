@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Data Engineering.
-- 💬 Ask me about Python, HTML, CSS.
-- 📫 How to reach me: [sergeikryzhanovskii.github.io](https://sergeikryzhanovskii.github.io/) | text me: sergeikryzh95@gmail.com
+- 🔭 I’m currently working on Data Engineer position.
+- 💬 Ask me about Python, Airflow, Vertica, DataVault 2.0.
+- 👯 I want to collaborate in the field of data analysis automation.
+- 📫 How to reach me: [LinkedIn://sergeikryzhanovskii](https://www.linkedin.com/in/sergeikryzhanovskii/)
 
-P.S.: Thanks for the profile photo: [@rutakray](https://www.instagram.com/rutakray/?hl=ru "@rutakray") (instagram)
 
 
 
